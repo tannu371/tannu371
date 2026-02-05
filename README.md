@@ -14,7 +14,7 @@ Figuring out what I am interested in.
 
 <a href="https://www.github.com/tannu371" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tannu371?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/@Tannu35079225" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@Tannu35079225?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/@semana_1013?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Socials
