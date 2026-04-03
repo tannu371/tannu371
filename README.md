@@ -24,7 +24,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/tannu371?style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/tannu371?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
-
 <a href="https://github.com/tannu371"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tannu371&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20Used%20Languages&card_width=400" alt="Most Used Languages" /></a>
