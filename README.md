@@ -24,6 +24,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannu371&layout=compact&hide=jupyter%20notebook&exclude_repo=Quantum-Computing,quantum-physics,qka_qsar,2026-NVIDIA-Challenge,shelf-scanner)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tannu371&hide=jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/tannu371"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tannu371&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20Used%20Languages&card_width=400" alt="Most Used Languages" /></a>
