@@ -1,18 +1,42 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tannu Kumari
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **Tannu Kumari**
 =====================================
 
-* 🌍  I'm based in Dhanbad
-* ✉️  You can contact me at [tannukumari03072004@gmail.com](mailto:tannukumari03072004@gmail.com)
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on Projects
-* ⚡  Te Amo Mucho, Tell Everyone
+* 🎓 B.S. Computer Science — **IIT (ISM) Dhanbad** (Aug 2026)
+* 🌍 Based in Dhanbad, India
+* ✉️ [tannukumari03072004@gmail.com](mailto:tannukumari03072004@gmail.com)
+* 🧠 Building full-stack apps, ML systems, and Gen-AI products
+* 🤝 Open to collaborating on projects & internships
+
+### 🔗 Portfolio & live demos
+
+| | Link |
+|---|------|
+| **Portfolio** | [**tannu371.github.io/Portfolio**](https://tannu371.github.io/Portfolio/) |
+| **Boogle** (blogging platform) | [**www.boogle.space**](https://www.boogle.space/) |
+| **Quantum Circuit Debugger** | [**quantum-circuit-debugger.vercel.app**](https://quantum-circuit-debugger.vercel.app/) |
+
+### ⭐ Featured repositories
+
+| Project | Stack | GitHub |
+|---------|-------|--------|
+| **CareerForge** | Next.js, Prisma, multi-LLM mentor | [careerforge](https://github.com/tannu371/careerforge) |
+| **ShelfScanner** | Flutter, FastAPI, YOLO, pgvector | [shelf-scanner](https://github.com/tannu371/shelf-scanner) |
+| **Product Q&A RAG** | LangChain, Chroma, Gemini, FastAPI | [product-qa-rag](https://github.com/tannu371/product-qa-rag) |
+| **FoodOS** | React, Flutter, Node, MongoDB | [FoodOS](https://github.com/tannu371/FoodOS) |
+| **Quantum Circuit Debugger** | Next.js, FastAPI, Qiskit | [quantum-circuit-debugger](https://github.com/tannu371/quantum-circuit-debugger) |
+| **Boogle** | Node, Express, PostgreSQL | [Boogle](https://github.com/tannu371/Boogle) |
 
 <a href="https://www.github.com/tannu371" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/tannu371?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<a href="https://www.twitter.com/@semana_1013" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/Tannu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.linkedin.com/in/tannu-kumari-353a99253" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/r_z_123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/tannu371" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/nihongo_1013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tannu-kumari-353a99253" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/@semana_1013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left">
+<a href="https://discord.com/users/r_z_123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/tannu371" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="http://www.instagram.com/nihongo_1013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/tannu-kumari-353a99253" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+</p>
 
 ### Badges
 
