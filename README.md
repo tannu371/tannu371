@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is **Tannu Kumari**
 =====================================
 
-* 🎓 B.S. Computer Science — **IIT (ISM) Dhanbad** (Aug 2026)
+* 🎓 B.Tech. Computer Science — **IIT (ISM) Dhanbad**
 * 🌍 Based in Dhanbad, India
 * ✉️ [tannukumari03072004@gmail.com](mailto:tannukumari03072004@gmail.com)
 * 🧠 Building full-stack apps, ML systems, and Gen-AI products
